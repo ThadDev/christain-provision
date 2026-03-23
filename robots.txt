@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://christain-provision.com/sitemap.xml
+Sitemap: https://https://christain-provision.vercel.app/sitemap.xml
